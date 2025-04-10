@@ -1,0 +1,21 @@
+# Java & IntelliJ
+target/
+*.class
+*.log
+*.iml
+.idea/
+*.jar
+*.war
+*.ear
+
+# Mac / Windows OS junk
+.DS_Store
+Thumbs.db
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+
+# Obsidian metadata
+docs/notes/.obsidian/
+
+*~
